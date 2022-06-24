@@ -525,7 +525,9 @@ img {
 .input-form:focus {
     color: var(--white-page-color);
 }
-
+.form-wrap {
+    display: flex;
+}
 .form-btn {
     display: flex;
     padding: 0;
